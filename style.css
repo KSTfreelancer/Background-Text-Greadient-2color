@@ -1,0 +1,36 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.m{
+    width: 700px;
+    height: 400px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -200px;
+    margin-left: -350px;
+    background-image: linear-gradient(to left,#fd8603,#e52f71);
+    box-shadow: 10px 10px 10px #fd8603;
+    box-shadow: 10px 10px 10px #fd8603;
+}
+.n{
+    width: 700px;
+    height: 400px;
+    margin-top: 700px;
+    margin-left: 323px;
+   border: 2px solid red;
+}
+.m h1{
+   position: absolute;
+    top: 50px;
+    left: 40%
+    
+}
+.m h1 {
+      background-image: linear-gradient(to left,red,green);   
+      -webkit-background-clip: text;
+      -moz-background-clip: text; 
+      background-clip: text;
+      color: transparent;
+      } 
